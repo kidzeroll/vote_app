@@ -56,16 +56,12 @@ Project sederhana untuk membuat voting online, dimana login menggunakan google.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Aplikasi ini dibuat fullstack menggunakan framework Nextjs 13. Untuk ORM menggunakan Prisma dan Database menggunakan Mongodb.
 
--   [![Next][Next.js]][Next-url]
 -   [![React][React.js]][React-url]
--   [![Vue][Vue.js]][Vue-url]
--   [![Angular][Angular.io]][Angular-url]
--   [![Svelte][Svelte.dev]][Svelte-url]
--   [![Laravel][Laravel.com]][Laravel-url]
--   [![Bootstrap][Bootstrap.com]][Bootstrap-url]
--   [![JQuery][JQuery.com]][JQuery-url]
+-   [![Next][Next.js]][Next-url]
+-   [![Prisma][prisma.oi]][Prisma-url]
+-   [![Mongodb][mongodb.com]][Mongodb-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
