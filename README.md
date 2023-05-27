@@ -113,9 +113,9 @@ Untuk menggunakannya silahkan login terlebih dahulu menggunakan google, kemudian
 
 ## Contact
 
-Linkedin : [@kidzeroll](https://www.linkedin.com/in/kidzeroll/)
-Instagram : [@kidzeroll](https://www.instagram.com/kidz.eroll/)
-Telegram : [@kidzeroll](https://https://t.me/kidzeroll)
+-   Linkedin : [@kidzeroll](https://www.linkedin.com/in/kidzeroll/)
+-   Instagram : [@kidzeroll](https://www.instagram.com/kidz.eroll/)
+-   Telegram : [@kidzeroll](https://https://t.me/kidzeroll)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -126,5 +126,7 @@ Telegram : [@kidzeroll](https://https://t.me/kidzeroll)
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Prisma.io]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Prisma-url]: https://reactjs.org/
+[Prisma.io]: https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+[Prisma-url]: https://www.prisma.io/
+[mongodb.com]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[Mongodb-url]: https://www.mongodb.com/
