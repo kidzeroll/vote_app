@@ -1,0 +1,37 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+type Candidate {
+  name  String
+  key   Int
+  title String
+}
+
+model votes {
+  id            String      @id @default(auto()) @map("_id") @db.ObjectId
+  title         String
+  startDateTime DateTime    @db.Date
+  endDateTime   DateTime    @db.Date
+  publisher     String
+  code          String      @unique
+  candidates    Candidate[]
+  createdAt     DateTime    @default(now()) @map("createdAt") @db.Date
+  deletedAt     String?
+}
+
+model participant {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  email     String
+  candidate String
+  code      String
+  createdAt DateTime @default(now()) @map("createdAt") @db.Date
+}
