@@ -50,7 +50,7 @@ export default function Home() {
                 <div className="flex flex-col items-center space-y-3">
                     <h1 className="text-5xl font-bold text-center">Ayo Mulai Voting</h1>
                     <h2 className="px-3 py-1 text-lg rounded-full bg-slate-800">
-                        Simple <span className="text-rose-500">&</span> Minimalis Web Voting
+                        Simple <span className="text-rose-500">&</span> Easy Web Voting
                     </h2>
                     <Image alt="hero" src="/assets/software-engineer.svg" width={400} height={400} />
                     <div className="space-x-4">
