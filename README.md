@@ -88,13 +88,11 @@ silahkan ikuti langkah dibawah ini.
     npm install
     ```
 3. Masukkan beberapa variabel di `.env`
-   `js
-GOOGLE_ID="Google ID Anda"
-GOOGLE_SECRET="Google Secret Anda"
-NEXTAUTH_URL="Next Auth URL Anda"
-NEXTAUTH_SECRET="Next Auth Secret Anda"
-DATABASE_URL="Database Mongodb Anda"
-`
+   `GOOGLE_ID="Google ID Anda"`
+   `GOOGLE_SECRET="Google Secret Anda"`
+   `NEXTAUTH_URL="Next Auth URL Anda"`
+   `NEXTAUTH_SECRET="Next Auth Secret Anda"`
+   `DATABASE_URL="Database Mongodb Anda"`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
